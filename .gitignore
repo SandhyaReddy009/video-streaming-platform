@@ -1,3 +1,2 @@
-/vendor/
-*.log
-db_connect.php  # If it contains sensitive credentials
+/videos/
+*.mp4
