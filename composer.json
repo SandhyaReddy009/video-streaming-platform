@@ -1,0 +1,7 @@
+{
+    "name": "SandhyaReddy009/video-streaming-platform",
+    "description": "A video streaming platform with a Dialogflow chatbot",
+    "require": {
+        "php": ">=7.4"
+    }
+}
