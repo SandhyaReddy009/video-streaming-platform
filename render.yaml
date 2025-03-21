@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: video-streaming-platform
+    env: php
+    buildCommand: composer install
+    startCommand: ""
+    plan: free
